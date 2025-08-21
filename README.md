@@ -1,4 +1,3 @@
-# Swedish-Leisure-Schedule-App
 # 🎨 Swedish Leisure Schedule App
 
 A beautiful, interactive web application for creating weekly leisure activity schedules, designed with Swedish language support.
